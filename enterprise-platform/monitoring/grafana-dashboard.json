@@ -1,0 +1,20 @@
+{
+  "title": "Enterprise Dashboard",
+  "panels": [
+    {
+      "title": "CPU Usage"
+    },
+    {
+      "title": "Memory Usage"
+    },
+    {
+      "title": "API Latency"
+    },
+    {
+      "title": "Database Health"
+    },
+    {
+      "title": "Active Users"
+    }
+  ]
+}
